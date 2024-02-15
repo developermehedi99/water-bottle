@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.button-price {
+  border: 2px sold black;
+  padding: 10px;
+}
